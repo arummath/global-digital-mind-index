@@ -1,5 +1,7 @@
 # 🇷🇺 vs 🇮🇳 Digital Sovereignty & AI Liability
 
+Status: Preliminary Analysis. Currently undergoing formal literature review and verification against 2026 legislative updates.
+
 ### 1. The Russian "State-Vetted" Model
 * **Philosophy:** AI is a tool for national technological sovereignty.
 * **Liability:** Focus is on "Certified Systems." If an AI is used in critical infrastructure, the developer and the state-approving body share oversight.
