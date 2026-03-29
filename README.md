@@ -15,7 +15,8 @@ Inspired by the **Cambridge "Digital Minds" Initiative**, this project analyzes 
 - [ ] **Phase 2:** Sentiment analysis of "Digital Rights" in public forums.
 - [ ] **Phase 3:** Visualizing the "Personhood Gap" heatmap.
 
-​📈 View the full Global Policy Matrix for detailed regional comparisons.
+📈 View the full [Global Policy Matrix](./GLOBAL_MATRIX.md) for detailed regional comparisons.
+
 
 ## 🛠 Tech & Methodology
 - **Data:** Legislative PDFs, Social Media Scrapes.
