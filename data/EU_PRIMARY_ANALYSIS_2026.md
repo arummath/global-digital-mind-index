@@ -2,7 +2,7 @@ This is a combined analysis of the primary source documents for the European Uni
 
 **EU AI Framework (2026)**
 
--Liability Chain and Attribution
+- Liability Chain and Attribution
 The "Buck" Stops at Control: Liability follows a cascading model where the entity with primary control over the AI system’s deployment context absorbs responsibility. For General-Purpose AI (GPAI), the "buck" initially stops with the model provider (e.g., OpenAI, Google) for systemic risk and documentation.
 
 The Downstream Shift: A critical mechanism exists where a developer who integrates a GPAI into a high-risk application becomes the legal "Provider," assuming all conformity and liability obligations.
