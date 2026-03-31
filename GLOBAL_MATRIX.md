@@ -6,7 +6,7 @@ This table tracks the legal stance of major regulators regarding AI Liability an
 | :--- | :--- | :--- | :--- |
 | **EU** | AI Act (Full Applicability Aug 2026) | Cascading / Product-based (AI Liability Directive Withdrawn) | ❌ Explicitly Rejected (Article 1 Charter / Kantian Dignity). |
 | **USA** | AI Executive Order 14110 / Sectoral | Tort-based / Negligence | ❌ Property (Copyright-blocked) |
-| **Russia** | National Strategy 2030 (Update 2025) | Shared / State-Vetted | ⚠️ Emerging "Agent" Debates |
+| **Russia** | National Strategy for the development of artificial intelligence 2030 | Shared / State-Vetted | ⚠️ Emerging "Agent" Debates |
 | **India** | IT Rules Amendment (Feb 2026) | Intermediary (SGI Labelling) | ⚠️ Judicial Precedents only |
 | **Japan** | AI Strategy 2025 (Innovation-First) | Flexible / Co-existence | 🇯🇵 High Social Acceptance |
 | **China** | Generative AI Measures | Provider-centric / Security | ❌ State-Regulated Object |
