@@ -24,3 +24,6 @@ Inspired by the **Cambridge "Digital Minds" Initiative**, this project analyzes 
 
 ---
 *Standalone Research Project | 2026*
+
+***PHASE 1***
+[X] Detailed analysis of EU AI Framework 2026 (Completed March 2026) -> [Link here](./data/EU_SYNTHESIS_2026.md)
