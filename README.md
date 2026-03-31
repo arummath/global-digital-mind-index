@@ -22,9 +22,15 @@ Inspired by the **Cambridge "Digital Minds" Initiative**, this project analyzes 
 - **Data:** Legislative PDFs, Social Media Scrapes.
 - **Tools:** Python (NLP), Markdown, Comparative Jurisprudence.
 
----
-*Standalone Research Project | 2026*
+---         ----
 
 ***PHASE 1***
 
 [X] Detailed analysis of EU AI Framework 2026 (Completed March 2026) -> [Link here](./data/EU_PRIMARY_ANALYSIS_2026.md)
+
+
+
+
+
+_______________________________________________
+[*Standalone Research Project | 2026*]
